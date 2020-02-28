@@ -1,2 +1,6 @@
 There once was a boy named Garrett. He used to live in Illinois. He wanted to go to UW-Madison, so he moved to Wisconsin in 2016. He started school at Madison in 2019. Garrett likes computer science and astronomy.
 Now he takes CS 400 this semester, in his x team there are other 3 people Will, Ethan, and Sam. This week we are working on p2, it required to create a Binary search tree and Red-Black Tree.
+
+
+Ethan was a SDE in Taiwan before here, he love Java and OS very much. In this semester, there are
+other 3 members Will, Sam, and Garret in our xteam.
